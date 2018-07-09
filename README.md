@@ -1,0 +1,2 @@
+# ImitButterknife
+仿照butterknife,利用自定义注解和apt实现view的绑定和事件的点击
